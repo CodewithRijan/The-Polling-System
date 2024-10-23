@@ -1,0 +1,22 @@
+
+The Polling Command Line Application
+
+1. The first page showcases the basic info about the entire app and gives you an option to login as an admin
+or as a user and also the option to quit the application.
+
+2. If you select admin, you would need to input the appropriate admin username and password to get logged in.
+
+--Admin Panel and functionalites--
+
+3. The Admin Panel has the option to make new polls and end the time for polling for specific polls. 
+    The users are able to vote in the polls until the admin ends the time(completing the polling)
+
+5. The application will have a home page which has the options of looking at ongoing polls or completed polls
+
+--Polls--
+6. The polls will have a title which shouldn't exceed more than 200 characters. It will have only two options
+where an user will be able to vote for either of them. Once voted, the user isn't allowed to vote again.
+
+7. The ongoing polls will show all the polls sorted by total number of votes. The polls will be displed in a 
+table with total votes, Poll Question, option 1, votes, option 2, votes
+
